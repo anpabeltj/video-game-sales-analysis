@@ -69,5 +69,5 @@ cd video-game-sales-analysis 📂
 
 ## ✉️ Contact 🤝
 
-Your Name – patrapembinaan@gmail.com 📬  
+Anpabelt Trah Javala – patrapembinaan@gmail.com 📬  
 https://github.com/anpabeltj/video-game-sales-analysis 🌟
