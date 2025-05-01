@@ -10,6 +10,10 @@ This project performs exploratory data analysis on the [Video Game Sales](https:
 2. Regional breakdown (NA, EU, JP, Other) 🌍
 3. Revenue forecasting via simple regression models 💹
 
+## 📝 Article
+
+You can access the full article here: [The Rise of Video Games: Top Trends, Consoles, and Genres from 1980 to 2020](https://anpabelt.medium.com/analyzing-two-decades-of-u-s-real-estate-sales-a-python-visualization-approach-de23e7fb0479) 📝
+
 ## 🗂️ Data 📦
 
 - **Source:** Kaggle “Video Game Sales” 🎰
